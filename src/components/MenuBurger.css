@@ -1,0 +1,8 @@
+* {
+  color: #efe9e9;
+  box-sizing: border-box;
+}
+
+.navbar {
+  --mdb-navbar-toggler-font-size: 3.25rem;
+}

@@ -1,0 +1,34 @@
+.banner {
+  background-image: url("./src/assets/mapworld.jpg");
+  background-size: cover;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn-continents {
+  color: black;
+  border-radius: 25px;
+  border: 5px solid;
+}
+.afrique {
+  border-color: red;
+}
+
+.asie {
+  border-color: #ffde59;
+}
+
+.europe {
+  border-color: #4fa0ad;
+}
+
+.ameriqueNord {
+  border-color: #5e17eb;
+}
+
+.ameriqueSud {
+  border-color: #00bf63;
+}
