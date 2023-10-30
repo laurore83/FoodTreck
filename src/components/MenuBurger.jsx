@@ -33,13 +33,13 @@ export default function MenuBurger() {
       <MDBCollapse show={showNavExternal}>
         <div className="bg-light shadow-3 p-4">
           <MDBBtn block className="border-bottom m-0" color="link">
-            Link 1
+            TICTOCOOK
           </MDBBtn>
           <MDBBtn block className="border-bottom m-0" color="link">
-            Link 2
+            A PROPOS
           </MDBBtn>
           <MDBBtn block className="border-bottom m-0" color="link">
-            Link 2
+            CONTACT
           </MDBBtn>
         </div>
       </MDBCollapse>

@@ -1,6 +1,7 @@
 .banner {
-  background-image: url("./src/assets/mapworld.jpg");
+  /*background-image: url("./src/assets/mapworld.jpg");*/
   background-size: cover;
+  filter: opacity(0.2);
 }
 
 .buttons {

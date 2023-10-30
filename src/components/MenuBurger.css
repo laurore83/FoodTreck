@@ -6,3 +6,7 @@
 .navbar {
   --mdb-navbar-toggler-font-size: 3.25rem;
 }
+
+.ripple-surface {
+  color: black;
+}

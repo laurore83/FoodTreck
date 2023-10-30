@@ -2,8 +2,10 @@ import "./Banner.css";
 
 export default function Banner() {
   return (
-    <div className="banner">
-      <img src="./src/assets/mapworld.jpg" alt="mapworld" />;
+    <div>
+      <div className="banner">
+        <img src="./src/assets/mapworld.jpg" alt="mapworld" />;
+      </div>
       <div className="buttons">
         <button className="btn-continents afrique" onClick="">
           AFRIQUE
